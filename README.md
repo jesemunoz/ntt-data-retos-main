@@ -10,7 +10,7 @@
 #### El proyecto reune los cuatro retos grupales, uno por cada área, planteados en el Bootcamp de Python Data Analyst de NTT Data Foundation, y el reto final grupal con su respectiva presentación, del área cinco.
 
 ### **`Retos por área:`**
-  - [*Área 1: Python*](https://drive.google.com/drive/folders/1YBgmikYQwsyAMwzDGFf6ZQpBl-SI02B5?usp=sharing)
+  - [*Área 1: Python*](https://drive.google.com/drive/folders/1DKQ7YFyn9qy7ORSOroTvAbtrrqDl__F9?usp=sharing)
     <details>
       <summary>Click para ver los contenidos</summary>
       - Editor de código
@@ -20,7 +20,7 @@
       - Funciones y librerías
       - Ejercicios
       </details>
-  - [*Área 2: Bases de datos*](https://drive.google.com/drive/folders/1YBgmikYQwsyAMwzDGFf6ZQpBl-SI02B5?usp=sharing)
+  - [*Área 2: Bases de datos*](https://drive.google.com/drive/folders/1DKQ7YFyn9qy7ORSOroTvAbtrrqDl__F9?usp=sharing)
     <details>
       <summary>Click para ver los contenidos</summary>
       - Bases de datos y SQL
@@ -31,7 +31,7 @@
       - Python y bases de datos. Conexión a MySQL y a MongoDB
       - Ejercicios
       </details>
-  - [*Área 3: Análisis, limpieza de datos, visualización y machine learning*](https://drive.google.com/drive/folders/1YBgmikYQwsyAMwzDGFf6ZQpBl-SI02B5?usp=sharing)
+  - [*Área 3: Análisis, limpieza de datos, visualización y machine learning*](https://drive.google.com/drive/folders/1DKQ7YFyn9qy7ORSOroTvAbtrrqDl__F9?usp=sharing)
     <details>
       <summary>Click para ver los contenidos</summary>
       - Numpy
@@ -56,7 +56,7 @@
       - Modelos de aprendizaje no supervisado
       - Ejercicios
      </details>
-  - [*Área 4: Visualización de datos con Power BI*](https://drive.google.com/drive/folders/1YBgmikYQwsyAMwzDGFf6ZQpBl-SI02B5?usp=sharing)
+  - [*Área 4: Visualización de datos con Power BI*](https://drive.google.com/drive/folders/1DKQ7YFyn9qy7ORSOroTvAbtrrqDl__F9?usp=sharing)
     <details>
       <summary>Click para ver los contenidos</summary>
       - Matplotlib
@@ -67,7 +67,7 @@
       - DAX, publicación de informes y anexos
       - Ejercicios
      </details>
-  - [*Área 5: Presentación de los resultados*](https://drive.google.com/drive/folders/1YBgmikYQwsyAMwzDGFf6ZQpBl-SI02B5?usp=sharing)
+  - [*Área 5: Presentación de los resultados*](https://drive.google.com/drive/folders/1DKQ7YFyn9qy7ORSOroTvAbtrrqDl__F9?usp=sharing)
     <details>
       <summary>Click para ver los contenidos</summary>
       - Buenas prácticas, metologías de proyecto y presentación final de resultados
@@ -77,7 +77,7 @@
 
 ### **Proyecto final en Google Drive:**
 
-- [![reto-grupal-final](https://img.shields.io/badge/Reto_Grupal_Final-informational?style=for-the-badge&logo=google-drive&logoColor=blue&color=grey)](https://drive.google.com/drive/folders/1vbxgG4RCvaJ9SiYPCNJBi-aAPpqqZKCf?usp=sharing)
+- [![reto-grupal-final](https://img.shields.io/badge/Reto_Grupal_Final-informational?style=for-the-badge&logo=google-drive&logoColor=blue&color=grey)](https://drive.google.com/drive/folders/12Ep7ETLdvEid570gh6iyW83Lhm3FLkeo?usp=sharing)
 
 - Se utilizó bases de datos SQL con el gestor de MySQL y NoSQL con MongoDB para trabajar con Mongo Atlas y así tener un respaldo en la nube.
 
